@@ -1,6 +1,6 @@
-# Ejercicio - Base Java
+# Ejercicio - Calculadora Java
 
-Repositorio básico para programación Java
+Repositorio básico para programación Java de una Calculadora
 
 * Compila el programa con el comando:
 ```
